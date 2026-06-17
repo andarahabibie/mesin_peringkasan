@@ -45,10 +45,3 @@ Pipeline sistem dieksekusi secara berurutan dalam hitungan detik:
 ### Prasyarat:
 * Python 3.9 atau lebih baru.
 * PostgreSQL berjalan di lokal (untuk fitur simpan riwayat).
-
-### Instalasi:
-
-1. **Kloning Repositori:**
-```bash
-   git clone [https://github.com/](https://github.com/)[UsernameKamu]/tvri-nlp-summarizer.git
-   cd tvri-nlp-summarizer

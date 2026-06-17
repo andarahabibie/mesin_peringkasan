@@ -1,0 +1,9 @@
+streamlit
+pymupdf
+Sastrawi
+scikit-learn
+plotly
+pandas
+numpy
+matplotlib
+python-docx

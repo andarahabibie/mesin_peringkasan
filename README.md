@@ -40,7 +40,6 @@ Pipeline sistem dieksekusi secara berurutan dalam hitungan detik:
 6. `MMROptimizer` ➔ Pemilihan kandidat kalimat akhir berdasarkan ambang batas kesamaan (*Cosine Similarity*).
 7. `Evaluator` ➔ Perhitungan skor *Precision, Recall, F1* menggunakan *ROUGE*.
 
-## 🚀 Cara Menjalankan Aplikasi Secara Lokal
 
 ### Prasyarat:
 * Python 3.9 atau lebih baru.
